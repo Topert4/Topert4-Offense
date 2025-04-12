@@ -4,8 +4,8 @@
 一些基本的步骤：可以讨论大家。
 
 # 基础电脑要求：
-https://t.me/c/2622761879/29
-🦏- VM|VB 虚拟机
+ https://t.me/c/2622761879/29
+# 🦏- VM|VB 虚拟机
 VM 17/地址：https://t.me/topert4/87
 VM 16/地址：https://t.me/topert4/86
 
