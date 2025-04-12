@@ -2,9 +2,9 @@ import asyncio
 from bleak import BleakScanner
 
 async def run():
-    print("🔍 Сканируем Bluetooth-устройства...")
+    print(" 正在扫描蓝牙设备...")
     devices = await BleakScanner.discover()
     for d in devices:
-        print(f"📡 {d.name} | {d.address} | RSSI: {d.rssi} dBm")
+        print(f" {d.name} | {d.address} | RSSI: {d.rssi} dBm")
 
 asyncio.run(run())
