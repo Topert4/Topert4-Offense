@@ -3,3 +3,5 @@
 ### 主要用户频道：[Black XXX Python](https://t.me/+9BjmwS7fRBY0YTU9)
 这里储存的是 可能需要的Pyhton的源代码 
 
+### 在线基础学习平台
+w3school (https://www.w3school.com.cn/python/index.asp)
