@@ -2,6 +2,9 @@
 
 
 ### 一些发布地址：[@Topert4](https://t.me/Ghos9527)
+
+这是2023年的概念！无阉割版！主要预览   2024-2025-2026年Ai的驱动形式如何
+
 ### 主要用户频道：[Black XXX Python](https://t.me/+9BjmwS7fRBY0YTU9)
 这里储存的是 可能需要的Pyhton的源代码 
 
