@@ -7,3 +7,5 @@
 w3school (https://www.w3school.com.cn/python/index.asp)
 
 Pyhton不错的入门推荐的：（https://github.com/jackfrued/Python-100-Days）
+
+Pyhton术语对照表 （https://docs.python.org/zh-cn/3.13/glossary.html#glossary）
