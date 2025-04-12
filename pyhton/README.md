@@ -5,4 +5,5 @@
 
 ### 在线基础学习平台
 w3school (https://www.w3school.com.cn/python/index.asp)
-入门不错的：https://github.com/jackfrued/Python-100-Days
+
+Pyhton不错的入门推荐的：（https://github.com/jackfrued/Python-100-Days）
